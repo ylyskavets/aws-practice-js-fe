@@ -1,5 +1,9 @@
 # React-shop-cloudfront
 
+S3-website - http://practice-js-fe-prod.s3-website.eu-central-1.amazonaws.com/
+
+CloudFront - https://d1yyvhh2svdei3.cloudfront.net/
+
 This is frontend starter project for nodejs-aws mentoring program. It uses the following technologies:
 
 - [Vite](https://vitejs.dev/) as a project bundler
